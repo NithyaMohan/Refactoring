@@ -1,4 +1,4 @@
-# Refactoring test in C #
+# Refactoring test in C# #
 
 ## Description
 
